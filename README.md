@@ -19,9 +19,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you are a novice or intermediate-level Jenkins user and have used Jenkins before but are not familiar with architecting solutions and implementing them in your organization, then this is the course for you. A basic understanding of the core elements of Jenkins is required to make the best use of this tutorial.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-•	Linux Systems Knowledge
-•	Virtual Box and Vagrant tools installed
-•	Basic knowledge of Groovy
+<UL>
+<LI>Linux Systems Knowledge
+<LI>Virtual Box and Vagrant tools installed
+<LI>Basic knowledge of Groovy</LI></UL>
 
 
 ## Related Products
